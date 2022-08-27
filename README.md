@@ -39,3 +39,9 @@
 ## ☁️Cloud
 
 Nothing here yet.
+
+## 🔃 Automation
+
+#### System Tasks
+
+- [mkTree.sh](</Automation/System Tasks/mkTree.sh>) --- Automate creation of specific directory trees.
