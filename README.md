@@ -7,15 +7,15 @@
 <h4 align="center">Collection of useful scripts (some of them may not be mine)</h4>
 
 <p align="center">
-  <a href="#🔒Infosec">🔒Infosec</a> •
-  <a href="#💻SysAdmin">💻SysAdmin</a> •
-  <a href="#☁️Cloud">☁️Cloud</a>
-  <a href="#🔃Automation">🔃Automation</a>
+  <a href="##🔒Infosec">🔒 Infosec</a> •
+  <a href="##💻SysAdmin">💻 SysAdmin</a> •
+  <a href="##☁️Cloud">☁️ Cloud</a> •
+  <a href="#🔃Automation">🔃 Automation</a>
 </p>
 
 ---
 
-## 🔒Infosec
+## 🔒 Infosec
 
 #### Recon
 
@@ -27,7 +27,7 @@
 
 - [procmon.sh](/Infosec/Discovery/procmon.sh) --- Monitor active processes.
 
-## 💻SysAdmin
+## 💻 SysAdmin
 
 #### Ops
 
@@ -37,7 +37,7 @@
 
 - [keepAlive.ps1](/SysAdmin/Misc/keepAlive.ps1) --- Keep machine alive, not intrusive.
 
-## ☁️Cloud
+## ☁️ Cloud
 
 #### Azure
 
