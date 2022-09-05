@@ -38,7 +38,9 @@
 
 ## ☁️Cloud
 
-Nothing here yet.
+#### Azure
+
+- [importHWID](/Cloud/Azure/importHWID) --- Import machine's HWID to Intune automatically.
 
 ## 🔃 Automation
 
