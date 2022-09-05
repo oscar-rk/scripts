@@ -10,6 +10,7 @@
   <a href="#🔒Infosec">🔒Infosec</a> •
   <a href="#💻SysAdmin">💻SysAdmin</a> •
   <a href="#☁️Cloud">☁️Cloud</a>
+  <a href="#🔃Automation">🔃Automation</a>
 </p>
 
 ---
