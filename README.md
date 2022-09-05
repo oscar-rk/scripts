@@ -41,6 +41,7 @@
 #### Azure
 
 - [importHWID](/Cloud/Azure/importHWID) --- Import machine's HWID to Intune automatically.
+- [extractHWID](/Cloud/Azure/extractHWID) --- Extract machine's HWID to CSV file automatically (supports append).
 
 ## 🔃 Automation
 
