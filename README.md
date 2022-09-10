@@ -21,6 +21,7 @@
 
 - [extractPorts.sh](/Infosec/Recon/extractPorts.sh) --- Extract ports from nmap scan result.
 - [portScan.sh](/Infosec/Recon/portScan.sh) --- Scan opened ports on target IP.
+- [hostScan.sh](/Infosec/Recon/hostScan.sh) --- Scan active hosts on current network segment.
 - [whichSystem.py](/Infosec/Recon/whichSystem.py) --- Identify running OS on target IP based on ping TTL value.
 
 #### Discovery
